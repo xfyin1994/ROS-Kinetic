@@ -1,6 +1,9 @@
 # ROS-Kinetic
 
 
+## 安装教程http://wiki.ros.org/cn/kinetic/Installation/Ubuntu
+
+
 ## 执行`sudo rosdep init`提示报错
 ```
 ERROR: cannot download default sources list from:
